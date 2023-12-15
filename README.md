@@ -1,6 +1,6 @@
 # 💫 About Me:
-St. Cyril and Methodius University – Skopje, Faculty of Computer Science and Engineeing - FCSE
-Software Developer Intern at [MCA](https://www.mca.mk/)
+### St. Cyril and Methodius University – Skopje, Faculty of Computer Science and Engineeing - FCSE
+### Software Developer Intern at [MCA](https://www.mca.mk/)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MitevDario) 
